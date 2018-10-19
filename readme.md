@@ -1,5 +1,7 @@
 #voxel.css
 
+[![GuardRails badge](https://badges.production.guardrails.io/moul/voxel.css.svg)](https://www.guardrails.io)
+
 #### JavaScript 3D library ####
 
 The goal of this project is to provide a lightweight 3D CSS library with very simple implementation.
